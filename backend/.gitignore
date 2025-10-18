@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 .env
 
 myenv/
 media/
 
 db.sqlite3
+=======
+
+>>>>>>> 499b4baf63d582c27b74382c5f959c5e03de0739
